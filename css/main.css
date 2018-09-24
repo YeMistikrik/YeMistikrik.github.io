@@ -3,8 +3,8 @@ body,p{font-size:14px}
 body,h1,h2,h3,h4,h5{font-family:Poppins,sans-serif}
 .btn,.btn-lg{text-transform:uppercase}
 #features,#hero-area,#testimonial,.portfolio-img,.single-team,.video-promo{overflow:hidden}
-@font-face{font-family:Poppins;font-style:normal;font-weight:400;src:local('Poppins Regular'),local('Poppins-Regular'),url(https://fonts.gstatic.com/s/poppins/v5/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype')}
-@font-face{font-family:Poppins;font-style:normal;font-weight:700;src:local('Poppins Bold'),local('Poppins-Bold'),url(https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf) format('truetype')}
+@font-face{font-family:Poppins;font-display: swap;font-style:normal;font-weight:400;src:local('Poppins Regular'),local('Poppins-Regular'),url(https://fonts.gstatic.com/s/poppins/v5/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype')}
+@font-face{font-family:Poppins;font-display: swap;font-style:normal;font-weight:700;src:local('Poppins Bold'),local('Poppins-Bold'),url(https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf) format('truetype')}
 body{color:#333;font-weight:400;background:#fff}
 p{line-height:26px}
 a:focus,a:hover{color:#7840b8;text-decoration:none;outline:0}
