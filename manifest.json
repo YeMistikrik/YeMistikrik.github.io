@@ -1,20 +1,20 @@
 {
-    "short_name": "Yé Mistikrik",
-    "name": "Yé Mistikrik ?",
-    "icons": [
-      {
-        "src": "/favicon/faviconweb-app-512x512.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "/favicon/faviconweb-app-512x512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "start_url": "/?source=pwa",
-    "background_color": "#7f22e9",
-    "display": "standalone",
-    "theme_color": "#7f22e9"
-  }
+  "short_name": "Yé Mistikrik",
+  "name": "Yé Mistikrik ?",
+  "icons": [
+    {
+      "src": "/favicon/faviconweb-app-512x512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon/faviconweb-app-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#7f22e9",
+  "display": "standalone",
+  "theme_color": "#7f22e9"
+}
