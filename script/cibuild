@@ -1,4 +1,3 @@
 JEKYLL_ENV=production
-gem install jekyll html-proofer
+gem install jekyll
 jekyll build --config "_config.yml,_config_prod.yml"
-htmlproofer ./_site --http-status-ignore "999"
